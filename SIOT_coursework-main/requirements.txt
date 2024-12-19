@@ -1,0 +1,9 @@
+# requirements.txt
+pymongo==3.0.2
+matplotlib==3.3.1
+statsmodels
+plotly
+twilio
+scipy
+seaborn 
+
